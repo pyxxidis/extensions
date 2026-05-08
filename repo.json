@@ -1,6 +1,7 @@
 {
   "meta": {
     "name": "pyxxidis",
-    "website": "https://github.com/pyxxidis/extensions"
+    "website": "https://pyxxidis.github.io/",
+    "signingKeyFingerprint": "AC:73:C7:52:15:D6:4D:5A:98:0E:2D:37:01:BE:65:4F:F7:B4:85:48:A7:D7:37:A1:44:93:33:3E:88:5E:00:C2"
   }
 }
